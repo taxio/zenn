@@ -1,0 +1,21 @@
+{
+  "plugins": {},
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "preset-ja-spacing": {
+      "ja-space-between-half-and-full-width": {
+        "space": [
+          "alphabets"
+        ]
+      }
+    },
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 300
+      }
+    },
+    "spellcheck-tech-word": true
+  }
+}
